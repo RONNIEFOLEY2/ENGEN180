@@ -10,21 +10,29 @@ Caleb Archer - software engineering
 
 Ethan Couper - Design
 
-Charles Nicardo - Civil engineering 
+Charles Nicardo - Civil engineering
+
+Ericka Stark - Civil engineering
+
+Anusharan Poudyal - Civil engineering
 
 
 
 Roles
 
-Veronica Foley -
+Veronica Foley - Sheet metal/batteries
 
-Cole Warren -
+Cole Warren - Batteries and switches
 
-Caleb Archer-
+Caleb Archer- Collection device
 
-Ethan Couper- 
+Ethan Couper- Vacum forming
 
-Charles Nicardo -
+Charles Nicardo - Component positioning
+
+Ericka Stark - Rudder
+
+Anusharan Poudyal- Propeller and motor
 
 
 Design Brife:
